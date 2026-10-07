@@ -1,0 +1,25 @@
+{
+  "catId": "CAT-001",
+  "name": "Milo",
+  "breed": "Maine Coon",
+  "ageYears": 7,
+  "weightKg": 6.2,
+  "geneticFindings": [
+    {
+      "gene": "MYBPC3",
+      "variant": "p.A31P",
+      "zygosity": "heterozygous",
+      "category": "cardiac",
+      "evidenceLevel": "high",
+      "relevantBreeds": [
+        "Maine Coon"
+      ],
+      "evidenceId": "OMIA:901"
+    }
+  ],
+  "medicalData": {
+    "respiratoryRatePerMin": 28,
+    "creatinineMgDl": 1.4,
+    "bodyConditionScore": 6
+  }
+}
